@@ -11,4 +11,4 @@
 
 ## Telegram do Grupo
 
-```
+```https://t.me/joinchat/mfEAJXqDGXtlNjEx```
