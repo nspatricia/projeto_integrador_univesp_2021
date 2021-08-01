@@ -12,3 +12,11 @@
 ## Telegram do Grupo
 
 ```https://t.me/joinchat/mfEAJXqDGXtlNjEx```
+
+## Armazenamento na Nuvem Mega
+```mega.nz```
+
+## Email grupo
+```projetointegradoratibaia@gmail.com```
+
+
