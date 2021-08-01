@@ -1,2 +1,14 @@
-# projeto_ingetrador_univesp_2021
-Projeto Integrador Univesp --- 2021
+# Projeto Integrado Univesp --- 2021
+
+
+## Membros do grupo
+ 1. JEAN CARLO VIANA
+ 2. GUILHERME DE ALMEIDA VIANA
+ 3. DANILO MISTRINEL
+ 4. PATRÍCIA NAKAZAWA SIQUEIRA
+ 5. RODOLFO PINHEIRO
+ 6. JONATHAN ROBERTO
+
+## Telegram do Grupo
+
+```
