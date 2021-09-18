@@ -1,0 +1,218 @@
+Ferramentas e Técnicas de SEO
+
+Uma coisa é certa hoje se você deseja que sua empresa apareça para seus clientes, você deve primeiro aparecer para o Google, está ferramenta online de pesquisa hoje representa 84,43% de participação no mercado brasileiro.
+
+<imagem1.jpg>
+
+Por este motivo as ferramentas e técnicas de SEO (Search Engine Optimization), são mais que necessárias para aumentar a visibilidade do seu site em mecânismos de busca aumentando a contidade de views e consequentemente a captura de novos negócios.
+O conceito de SEO é defido por “Trata-se de um processo que gera tráfego para determinado site a partir de resultados de buscas e de motores de buscas de natureza
+orgânica, editorial ou natural.” (trecho retirado do site http://www.comcom.fac.unb.br/images/docs/guia_SEO.pdf).
+O intuito é posicionar o site nas primeiras posições da engine de busca, assim que o usuário digita uma palavra-chave, sem a necessidade de compra de espaço, banners ou anúncios. Conquistando de forma orgânica a posição (snippet) zero no motor de buscas ficando abaixo somente dos links patrocinados.
+
+<imagem2.jpg>
+(Fonte http://www.comcom.fac.unb.br/images/docs/guia_SEO.pdf)
+
+		"As buscas contendo uma palavra foram 31,56% do total no período de 4 semanas terminadas em 29 de dezembro de 2012, seguidas por buscas que continham 			duas palavras, com 20,16%, e três palavras, 19,11%. As buscas contendo quatro palavras somaram 11,25% do total, enquanto aquelas contendo cinco 			palavras totalizaram 7,89%." (Fonte: https://www.agenciamestre.com/marketing-digital/google-possui-84-do-market-share-no-brasil/)
+
+Dai a importância de ranquear seu site atravéz de palavras chaves por qual motivo? "Veja segundo o site Zero Limit Web, os cinco primeiros resultados, juntos,
+recebem aproximadamente 68% dos cliques. Do 6º ao 10º, somados, recebem comente 4%. Segundo o Ahrefs, 26% desses 68% vão para a resposta que está em primeiro lugar. O
+snippet, quando aparece, “rouba” 8,6% dos cliques, deixando somente 19,6% para o primeiro resultado." (Fonte: https://www.tracto.com.br/snippet/)
+
+Mesmos realizando todas as Técnica de SEO, leva um tempo para o site aparecer no topo da lista, pois além de aspectos técnicos, qualidade do conteúdo existem ainda a disputa pelo termo que se quer ganhar destaque.
+Segundo o site Ahrefs após analisar 2 milhões de palavras-chave o resultado apontou que as 10 respostas mas bem ranqueadas ficaram no ar por 900 dias. Isso indica que o processo não é rápido e é necessário uma constância na qualidade dos conteúdos postados, novamente segundo a Ahrefs somente 5,7% dos posts vão chegar ao TOP10 em menos de um ano.
+
+<imagem3.jpg>
+(Fonte http://www.comcom.fac.unb.br/images/docs/guia_SEO.pdf)
+
+A clareza e qualidade do conteúdo são os fatores de maior importância para o ranqueamento. O volume e qualidade do conteúdo trouxe maiores retornos do que simplesmente a públicação de palavras-chave.
+O tamanho dos textos também é importante textos curtos entre 1300 a 750 palavras que atraiam e mantenham a atenção do leitor. Devemos sempre responder aos questionamentos efetuados pelos usuários e para isso ferramentas como https://answerthepublic.com/ e https://trends.google.com/ podem auxiliar nos termos mais procurados e palavras-chaves mais pesquisadas.
+
+<imagem4.jpg> 
+(Fonte site https://www.searchmetrics.com/knowledge-hub/studies/ranking-factors/)
+
+Técnicas de SEO:
+
+1 – Palavras-chaves no título do conteúdo:
+Para ser visto, seu título do conteúdo não poderá ultrapassar 70 caracteres (Contador de Caracteres: https://www.invertexto.com/contador-caracteres) e deverá ter no máximo 2 palavras-chave.
+
+<html>
+   <head>
+    <TITLE>Language Community Center - Aprenda Ingles e Espanhol com a LCC</TITLE>
+   </head>
+   <body>
+   </body>
+<html>
+
+<imagem5.jpg>
+(Fonte https://afiliart.com/seo/5-tags-html-para-seo-on-page/)
+
+2 – Melhore a Meta Description
+O Meta Description é o texto geralmente utilizado pelo Google para a exibição dos resultados de pesquisa. Ela é formada pelas segundas e terceiras linhas dos resultados de busca, e vem logo abaixo do título. Seu limite fica entre 50 e 150 caracteres. Isso contribuirá como uma pequena propaganda para atrair mais usuários através das buscas orgânicas.
+
+<html>
+   <head>
+    <META NAME="DESCRIPTION" CONTENT="Cursos de ingles e espanhol para empresas crianças jovens e adultos professores experientes com preparadas para voce aprender contato *telefone*">
+   </head>
+   <body>
+   </body>
+<html>
+
+<imagem4.jpg>
+(Fonte https://afiliart.com/seo/5-tags-html-para-seo-on-page/)
+
+3 – Tenha apenas um <H1> no texto
+As Heading Tags são recursos de programação HTML utilizados para destacar títulos e subtítulos de uma página, é usado pelo Google para determinar o principal assunto abordado. O recomendado neste caso é utilizar apenas uma palavra-chave, isso deixará claro ao Google qual é a palavra-chave mais importante. Títulos a serem inseridos na aplicação.
+
+		<h1>Inglês e Espanhol para Empresas.</h1>
+		<h1>Inglês e Espanhol para Professores.</h1>
+		<h1>Inglês e Espanhol para Kids & Teens.</h1>
+		<h1>Conversação</h1>
+		<h1>Contato</h1>
+		<h1>Testemunhos</h1>
+		<h1>Videos Promocionais - Cursos de Inglês e Espanhol</h1>
+		<h1>Testes Grátis Inglês e Espanhol</h1>
+		<h1>Nossa Escola</h1>
+		<h1>Intercâmbio Inglaterra - speakuplondon</h1>
+		<h1>Nossos Professores de Inglês e Espanhol</h1>
+		<h1>Cursos Online de Inglês e Espanhol</h1>
+
+4 – Os subtítulos do texto devem ser <h2>:
+Se tratando de <h2>, as tags são direcionadas para os subtítulos. Em outras palavras, a tag deve abordar um conteúdo subsequente do conteúdo da sua página.Subtitulos a serem inseridos na aplicação de forma transparente e no corpo do texto de cada tópico (serviço), exemplo do código.
+
+		<h2>Inglês e Espanhol para Crianças e Adultos</h2>
+		<h2><font color=" #fff" face="arial">Inglês e Espanhol para Crianças e Adultos</font></h2>
+
+5 – Utilize as tags <h3>, <h4>, <h5>:
+As demais palavras do texto devem ser trabalhadas com as tags <h3>, <h4> e <h5>. Nunca formate seu texto com as opções de tamanho de fonte que há nos editores de publicadores.Exemplo de código.
+
+		<h3>Oferecer o melhor ensino de idiomas para nossos alunos, sempre respeitando suas limitações de tempo, estilo de aprendizagem e necessidades 				linguísticas.</h3>
+
+6 – Use links internos e externos:
+Indexar links internos e externos no corpo do seu conteúdo é uma maneira de melhorar o seu backlink e o ranqueamento nos motores de busca:
+
+		Interno - href<a name="Inglês e Espanhol para Empresas"></a></h1> referencia ao link interno
+			  <a href="Inglês e Espanhol para Empresas"></a> marcação do texto
+		Local - href="img/foto.jpg"
+		Global - href="https://www.speakuplondon.com/"
+
+7 – Use URL amigável: Um dos hacks mais importantes do SEO é a chamada “url amigável”.Utilizar a url para destacar o seu site:
+
+		www.languagecommunityctr.com/cursos_de_inglês_e_espanhol”.
+
+8 - Inserção de palavras-chave:Meta tag de PALAVRAS CHAVES - Até 12 palavras e/ou frases de 2-3 palavras, separads por vírgulas - limitar em 255 caracteres
+
+		<meta name='KEYWORDS' content='curso de ingles,curso ingles online,intercambio,ingles,aulas de conversação,ingles online,ingles para criancas, ingles 			para adultos, ingles para jovens, cursos in company, inglaterra, curso espanhol, espanhol/>
+
+9 - Descrição das imagens:textos que descrevem uma imagem inserida no site, e são utilizados apenas pelos buscadores que ainda não conseguem interpretar o conteúdo de uma imagem, então eles utilizam o alt text para entendê-la, funciona como uma legenda descritiva para a imagem.
+
+ 		<img src=“imagem.jpg” alt=“Descrição da imagem” title=“Descrição da Imagem”>
+
+10- Adicionar dados estruturados ao seu site: SON-LD (JavaScript Object Notation for Linked Data) é um formato de marcação de dados estruturado que contém os dados vinculados dentro de um bloco de script (<script> </script>). As informações inseridas no script são ocultas aos visitantes e usadas apenas por crawlers de motores de busca.Ferramenta para testes de dados estruturados do Google (https://search.google.com/test/rich-results)
+
+<html> 
+ <script type="application/ld+json">
+ {
+  "@context": "https://schema.org",
+  "@type": "Course",
+   "name": "Cursos de Ingles e Espanhol - Language Community Center",
+   "description": "Cursos de Inglês e Espanhol para Empresas Criancas, Jovens e Adultos. Conversacao e Intercambio - Language Community Center",
+    "provider":{
+      "@type": "Organization",
+      "name": "Language Community Center - LCC",
+      "sameAs": "https://languagecommunityctr.com/",
+      "address": {
+		"@type": "PostalAddress",
+   	        "addressLocality": "São Paulo",
+    	    "addressRegion": "SP",
+    	    "postalCode": "05542-020",
+    	    "streetAddress": "Rua Joao Jose dos Santos, 377"
+	   },
+  "openingHours": [
+    "Mo-Sa 17:00-22:00"
+  ],
+  "telephone": "+55 (11) 94756-1079",
+  "url": "https://languagecommunityctr.com/",
+  "email":"info@languagecommunityctr.com"
+      }
+    }
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
+
+11- Utilize o Youtube: Caso haja vídeos, publique sempre no Youtube. Se reparar, muitas buscas na internet dão resultados em vídeos. Como o YouTube pertence ao Google, certamente ele dará prioridade ao conteúdo que estiver por lá. Videos publicados no YouTube ajudam a melhorar o ranqueamento principalmente se tiverem muitos comentários conforme constatou a Backlinko, em 2017 com a analise de cerca de 1,3 milhão de vídeos e constatou que vídeos são valiosos para ranqueamento. E os videos melhores ranqueados foram aqueles cujo tempó médio de duração foi de 14 a 15 minutos.
+
+<imagem6>
+<imagem7>
+(Fonte: https://backlinko.com/youtube-ranking-factors)
+ 
+Como avaliar um site: SEO e Audiência.
+
+A melhor maneira de avaliar um site é observar seu desempenho em audiência e SEO. O ideal é que um site consiga ter bom desempenho em ambos os critérios. Isso significa trabalhar bem tanto a promoção do conteúdo quanto sua otimização para resultados orgânicos em mecanismos de busca, como o Google. 
+1. Primeira forma simples de saber sobre o ranqueamento naquele termo específico nos motores de busca. Basta procurar no próprio Google
+2. Segunda forma é utilizar medidores de audiência dos sites como o https://www.similarweb.com/ e o https://www.alexa.com/siteinfo, que são capazes de estimar a audiência para o site.
+3. Terceira forma usar a Ferramenta de inspeção de URL (https://support.google.com/webmasters/answer/9012289?hl=pt-br)Exibir sua página para o Google da mesma maneira que os usuários a visualizam.A ferramenta dá a você uma visão exata de como o Googlebot vê e processa seu conteúdo, além de ajuda para identificar e corrigir vários problemas de indexação do site.
+
+
+=========================================================
+Ferramentas utilizadas
+
+Contador de Caracteres:
+https://www.invertexto.com/contador-caracteres
+
+Ferramenta para testes no código:
+https://site112.com/editor-online-html
+
+Pesquisa de Palavras-Chave e Sugestões de Conteúdo:
+https://trends.google.com/
+https://neilpatel.com/br/ubersuggest/
+https://pt.semrush.com/projects/?utm_campaign=link&utm_source=berush&utm_medium=promo
+https://keywordtool.io/
+
+Pesquisa de Questões efetuadas pelos usuários:
+https://answerthepublic.com/
+
+Ferramenta de inspeção de URL
+https://support.google.com/webmasters/answer/9012289?hl=pt-br
+
+Ferramenta para testes de dados estruturados do Google
+https://search.google.com/test/rich-results
+============================================================
+Metatag/Html/CSS
+
+http://www.linhadecodigo.com.br/artigo/3609/meta-tag-onde-e-como-inserir-em-seu-codigo.aspx
+https://tutorialehtml.com/pt/html-tutorial-meta-tag/
+https://afiliart.com/seo/5-tags-html-para-seo-on-page/
+============================================================
+Dados estruturados para mecanismos de busca
+
+https://reulison.com.br/dados-estruturados-com-json-ld/
+================================================================
+=================================================
+Dados sobre o Google:
+
+https://www.internetlivestats.com/google-search-statistics/#trend
+=====================================================
+Verificação de trafego:
+
+https://www.codigofonte.com.br/dicas/como-descobrir-o-trafego-de-qualquer-site-da-internet
+https://www.gocache.com.br/dicas/como-descobrir-o-trafego-de-um-site/
+https://www.similarweb.com/top-websites/brazil/
+https://www.alexa.com/siteinfo
+====================================================
+SEO:
+
+http://www.comcom.fac.unb.br/images/docs/guia_SEO.pdf
+https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=pt-br
+=====================================================
+
+
+
+
+
+
+
+
+
+ 
