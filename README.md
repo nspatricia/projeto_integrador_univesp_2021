@@ -1,4 +1,4 @@
-# Projeto Integrado Univesp --- 2021
+# Projeto Integrador Univesp --- 2021
 
 ## Membros do grupo:
 
@@ -51,6 +51,16 @@ Relatório Parcial e Final (atualizem conforme o desenvolvimento das atividades,
 	.Formatação trabalho- Jean/Guilherme  
 	.Video do Projeto  
 	```
+
+## Relátórios entregues:
+
+	1. PJI110_0004_ATIBAIA_Grupo_001_Plano_de_Acao-2021_V1 (95% - Atualização Atividades Patricia/Jonathan Data Entrega 20/09)
+	2. Relatório Parcial (5% Data Entrega 18/10/2021)
+	3. Relatório Final (0% Data da Entrega 29/11/2021)
+	4. Avaliação colaborativa (0% Data Entrega 16/11/2021)
+	5. Vídeo de apresentação (0% Data Entrega 29/11/2021)
+
+
 
 ## Armazenamento na Nuvem Mega  
 ```mega.nz```  
