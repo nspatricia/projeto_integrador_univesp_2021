@@ -1,6 +1,5 @@
 # Projeto Integrado Univesp --- 2021
 
-
 ## Membros do grupo
  1. JEAN CARLO VIANA
  2. GUILHERME DE ALMEIDA VIANA
@@ -9,14 +8,10 @@
  5. RODOLFO PINHEIRO
  6. JONATHAN ROBERTO
 
-## Telegram do Grupo
-
-```https://t.me/joinchat/mfEAJXqDGXtlNjEx```
-
 ## Armazenamento na Nuvem Mega
 ```mega.nz```
 
 ## Email grupo
-```projetointegradoratibaia@gmail.com```
+```grupopiatibaia01@cursos.univesp.br```
 
 
