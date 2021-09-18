@@ -1,0 +1,68 @@
+criar pasta
+entrar na pasta
+iniciar o git ----> git init
+
+<<<Config Globais>>>
+
+$ git config --global user.email "xxxxxx@gmail.com conforme configurado no github"
+$ git config --global user.name "usar o nome do user"
+$ git config --global credential.provider generic ----> para corrigir tela de login
+
+<<<Adicionando arquivos ao GIT>>>
+
+---> adicionando todos os arquivos ao repositório
+$ git add * 
+$ git add (pasta/nome do arquivo) ---> adicionando todos os arquivos ao repositório
+
+
+---> efetuando o commit
+$ git commit -m "commit inicial"  ---- -m (mensagem colocar resumo das atualizações)
+
+
+---> recuperand o arquivo deletado 
+$ git restore teste.txt
+
+
+---> deletando pelo GIT
+$ git rm teste.txt
+rm 'teste.txt'
+
+
+----> mostra o status dos arquivos
+$ git status
+
+
+----> mostra a lista de configurações do projeto
+$ git config --list
+
+
+---> comando para retirar configurações da lista global
+$ git config --global -- unset user.email
+
+
+---> setando o a url do github
+git remote add origin https://github.com/jeancarloviana/livro-receitas.git
+
+
+---> verifica as configurações do github da url
+$ git remote -v
+origin  https://github.com/jeancarloviana/primeiros_passos.git (fetch)
+origin  https://github.com/jeancarloviana/primeiros_passos.git (push)
+
+
+----> comando define nova url
+$ git remote set-url origin https://github.com/jeancarloviana/livro-receitas.git
+
+----> comando para subir arquivos para o repositório
+$ git push origin main
+
+----> comando para baixar arquivos do repositório
+$ git pull origin main
+
+-----> comando para mudar origem
+git branch -M main
+
+-------> clonar repositório do git
+$ git clone https://github.com/jeancarloviana/primeiros_passos.git
+
+
